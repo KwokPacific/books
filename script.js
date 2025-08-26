@@ -1,4 +1,4 @@
-const N8N_ENDPOINT = 'https://your-n8n-domain/webhook/photo-essay'; // Đổi lại domain của bạn
+const N8N_ENDPOINT = 'https://n8n.myaloha.vn/webhook/drive-photo-essay'; // Đổi lại domain của bạn
 
 document.getElementById('essayForm').addEventListener('submit', async function(e) {
   e.preventDefault();
